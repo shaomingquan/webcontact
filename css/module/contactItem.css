@@ -1,0 +1,25 @@
+/*contactItem.css*/
+.contact-item{
+	width: 1020px;
+	padding: 10px;
+	margin: 20px;
+	position: relative;
+	background: white;
+	border-radius: 20px;
+}
+.contact-item-attr{
+	display: inline-block;
+	width: 24%;
+	font-size: 24px;
+	font-weight: bolder;
+	color: lightblue;
+	text-align: center;
+}
+.delete a{
+	color:orange;
+	text-decoration: none;
+}
+.edit a{
+	color:brown;
+	text-decoration: none;
+}
